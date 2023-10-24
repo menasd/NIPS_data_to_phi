@@ -1,4 +1,3 @@
-
 #Using parallel computing to create a long format file that lists the cells 
 #  of each contingency table corresponding to a word pair.
 
